@@ -8,14 +8,19 @@ small {
     font-style: normal;
 }
 
-h1 {
+img {
     display: inline-block;
     margin-bottom: 0px;
 }
 
 .links {
     margin-top: 15px;
-    float: right
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr {
 }
 
 
